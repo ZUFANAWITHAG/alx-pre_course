@@ -1,1 +1,1 @@
-this is for my firsy git project
+  i am luck person in this world
